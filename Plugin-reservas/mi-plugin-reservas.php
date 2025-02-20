@@ -1,7 +1,7 @@
 <?php
 
 // Archivo principal del plugin
-
+// Este archivo se encarga de registrar el plugin y cargar las dependencias.
 
 /**
  * Plugin Name: Reservas de Viajes

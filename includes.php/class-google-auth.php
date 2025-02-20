@@ -1,7 +1,7 @@
 <?php
 
+// Este archivo maneja la autenticación de usuarios con Google
 // Clase para autenticación con Google
-
 
 require_once 'vendor/autoload.php';
 

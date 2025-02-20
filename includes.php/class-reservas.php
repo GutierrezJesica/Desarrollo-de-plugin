@@ -1,5 +1,6 @@
 <?php
 
+// Este archivo maneja la creación y almacenamiento de reservas.
 // Clase para gestionar reservas
 
 class Reservas {
