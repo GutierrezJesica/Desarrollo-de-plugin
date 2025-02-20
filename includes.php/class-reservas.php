@@ -8,7 +8,7 @@ class Reservas {
     }
 
     public function crear_tabla_reservas() {
-        global $wpdb;
+        global $wpdb; // $wpdb hace consultas a la BD de wordpress
         $tabla = $wpdb->prefix . 'reservas_viajes';
         $charset_collate = $wpdb->get_charset_collate();
 
