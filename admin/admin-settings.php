@@ -1,0 +1,1 @@
+// Página de configuración en el panel de administración
